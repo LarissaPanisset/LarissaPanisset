@@ -16,7 +16,7 @@ Sou Arquiteta e Urbanista em transição para a área de **Análise de Dados**, 
 - 🎓 Arquiteta e Urbanista pela **PUC Minas**
 - 🏗️ Experiência em **projetos arquitetônicos, BIM e compatibilização**
 - 📈 Aplicando **análise de dados** para otimizar processos construtivos e tomada de decisão
-- 🌊 Interesse em **offshore e setor AEC**
+- 🌊 Interesse no setor **offshore e AEC**
 - 🎨 **Hobby:** Modelagem 3D artística e renderização (imagens e vídeos)
 
 ---

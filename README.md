@@ -102,7 +102,8 @@ Em breve: projetos de análise preditiva, dashboards para construção civil, in
 ---
 
 
-> *"Transformando dados em decisões inteligentes para construir um futuro mais eficiente e sustentável."*
+> **“Dados! Dados! Preciso de dados! Não posso fazer tijolos sem barro!”**  
+> — *Sherlock Holmes*
 
 
 ---

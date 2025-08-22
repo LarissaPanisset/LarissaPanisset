@@ -38,12 +38,7 @@ Sou Arquiteta e Urbanista em transição para a área de **Análise de Dados**, 
 ![Python](https://img.shields.io/badge/Python-Intermediário-3776AB?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Cursando-336791?style=flat&logo=postgresql)
 ![Power BI](https://img.shields.io/badge/Power_BI-Cursando-F2C811?style=flat&logo=powerbi)
-
-
-
-### 🧠 Ciência de Dados (Em Formação)
 ![Estatística](https://img.shields.io/badge/Estatística-Cursando-008080?style=flat)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Em_Breve-FF6384?style=flat)
 
 
 ---

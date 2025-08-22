@@ -29,7 +29,6 @@ Sou Arquiteta e Urbanista em transição para a área de **Análise de Dados**, 
 ![Revit](https://img.shields.io/badge/Revit-Avançado-FF6B6B?style=flat&logo=autodesk)
 ![Enscape](https://img.shields.io/badge/Enscape-Avançado-00C7B1?style=flat)
 ![Dynamo](https://img.shields.io/badge/Dynamo-Intermediário-FFA500?style=flat)
-![V-Ray](https://img.shields.io/badge/V--Ray-Intermediário-000000?style=flat&logo=v-ray)
 ![SketchUp](https://img.shields.io/badge/SketchUp-Intermediário-005F9E?style=flat&logo=sketchup)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-Básico-003399?style=flat&logo=autodesk)
 ![3ds Max](https://img.shields.io/badge/3ds_Max-Básico-2D7DBA?style=flat&logo=3dsmax)

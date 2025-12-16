@@ -4,7 +4,7 @@
 **Arquiteta | Entusiasta de BIM + Dados**
 
 
-Sou Arquiteta e Urbanista estudando **Análise de Dados**, com foco na aplicação de dados no **setor offshore e AEC**. Tenho experiência avançada na **metodologia BIM** e estou me especializando em ferramentas como **Python, SQL, Power BI e Excel** para transformar dados em insights estratégicos.
+Sou Arquiteta e Urbanista, atualmente ampliando meus conhecimentos em **Análise de Dados**, com foco na aplicação de dados no **setor offshore e AEC**. Tenho experiência avançada na **metodologia BIM** e estou me especializando em ferramentas como **Python, SQL, Power BI e Excel** para transformar dados em insights estratégicos.
 
 
 ---

@@ -75,8 +75,6 @@ Em breve: projetos de análise preditiva, dashboards para construção civil, in
 |-------|-------------|--------|
 | Certificado Profissional de Análise de Dados | Google / Coursera | 🟡 Cursando |
 | Power BI para Data Science | Data Science Academy | 🟡 Cursando |
-| Estatística | EBA Estatística| 🟡 Cursando |
-| Oracle Next Education | Oracle | 🟡 Cursando |
 | Excel Avançado | ENAP | 🟡 Cursando |
 
 
